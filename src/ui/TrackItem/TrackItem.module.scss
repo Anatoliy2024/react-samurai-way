@@ -1,0 +1,11 @@
+.track {
+  border: 1px solid #747bff;
+  //   border-color: #747bff;
+
+  border-radius: 8px;
+  padding: 10px;
+  /* margin: 10px; */
+}
+.track.isSelected {
+  border-color: red;
+}
